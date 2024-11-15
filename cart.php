@@ -240,3 +240,4 @@ if(file_exists('carritocompras.txt')){
     <script src="js/main.js"></script>
 </body>
 </html>
+
