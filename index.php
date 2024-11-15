@@ -59,7 +59,7 @@
 <div class="contactinfo">
 <ul class="nav nav-pills">
 <li><a href="#"><i class="fa fa-phone"></i> +52 618 120 56 89</a></li>
-<li><a href="#"><i class="fa fa-envelope"></i> isaac cordova@gmail.com</a></li>
+<li><a href="#"><i class="fa fa-envelope"></i> isaaccordova@gmail.com</a></li>
 </ul>
 </div>
 </div>
@@ -80,7 +80,7 @@
 </div>
 <H3>SOFTWARE PUNTO DE VENTA </H3>
 <div class="col-sm-8">
-Por: isaac cordova y luis garcia
+Por: GUAJARDO CORDOVA
 <div class="shop-menu pull-right">
 <ul class="nav navbar-nav">
 <li><a href="agregarproducto.php" target="_blank"><i class="fa fa-plus"></i>Agregar
@@ -321,3 +321,4 @@ Por: isaac cordova y luis garcia
     <script src="js/main.js"></script>
 </body>
 </html>
+
