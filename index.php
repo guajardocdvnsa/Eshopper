@@ -1,7 +1,7 @@
 <?php
 session_start();
-   $_SESSION["usuario"] = $usuario;
-   $_SESSION["email"] = $email;
+  $usuario = $_SESSION["usuario"];
+  $email = $_SESSION["email"];
   $BDProductos = array(0,"CERO",0,"");
  $i=0; $iProductos=1; 
  $filas=file('archivo.txt'); 
@@ -35,7 +35,7 @@ session_start();
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Software Punto de Venta" content="">
-    <meta name="Alejandro Briones" content="">
+    <meta name="isaaccordova" content="">
     <title>Inicio | E-Shopper</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -332,6 +332,8 @@ session_start();
 	<script src="js/price-range.js"></script>
     <script src="js/jquery.prettyPhoto.js"></script>
     <script src="js/main.js"></script>
+</body>
+</html>
 </body>
 </html>
 
